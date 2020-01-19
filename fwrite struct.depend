@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579250464 source:e:\c program\fwrite struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
